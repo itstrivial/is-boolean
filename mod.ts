@@ -12,7 +12,7 @@ type Any = any;
 
 /**
 * You don't need this module.
-* Use `typeof x == \"boolean\";` instead.
+* Use `typeof x == "boolean";` instead.
 **/
 export default function (x: Any): boolean {
   throw ERR;
