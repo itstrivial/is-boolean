@@ -1,3 +1,3 @@
-# is-x
+# is-boolean
 
-Template repository for `is-x` modules.
+You don't need this module. Use `typeof x === 'boolean';` instead. 
